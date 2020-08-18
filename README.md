@@ -5,5 +5,6 @@
 pip install random
 pip install pyfiglet
 
-#usage
+#Usage
+
 python snakewatergun.py
